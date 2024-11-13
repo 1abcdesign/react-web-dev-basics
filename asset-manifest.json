@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-web-dev-basics/static/css/main.50f2c78a.css",
+    "main.js": "/react-web-dev-basics/static/js/main.46b78b26.js",
+    "static/css/693.befd2139.chunk.css": "/react-web-dev-basics/static/css/693.befd2139.chunk.css",
+    "static/js/693.f52c2871.chunk.js": "/react-web-dev-basics/static/js/693.f52c2871.chunk.js",
+    "static/css/165.b296b289.chunk.css": "/react-web-dev-basics/static/css/165.b296b289.chunk.css",
+    "static/js/165.2fe8f952.chunk.js": "/react-web-dev-basics/static/js/165.2fe8f952.chunk.js",
+    "static/css/156.55672800.chunk.css": "/react-web-dev-basics/static/css/156.55672800.chunk.css",
+    "static/js/156.fda0abbe.chunk.js": "/react-web-dev-basics/static/js/156.fda0abbe.chunk.js",
+    "static/media/header.webp": "/react-web-dev-basics/static/media/header.a999ff83fe725051f550.webp",
+    "static/media/success.svg": "/react-web-dev-basics/static/media/success.7ae50975d9eaef13fe32.svg",
+    "static/media/logo.svg": "/react-web-dev-basics/static/media/logo.20a09c8680baa0fdd5eeb0e39b457a1a.svg",
+    "static/media/defaulUser.svg": "/react-web-dev-basics/static/media/defaulUser.b51651e3062922d061aac30f732816f7.svg",
+    "static/media/spinner.svg": "/react-web-dev-basics/static/media/spinner.6484447065ee95c082e9b52b2a1f2996.svg",
+    "index.html": "/react-web-dev-basics/index.html",
+    "main.50f2c78a.css.map": "/react-web-dev-basics/static/css/main.50f2c78a.css.map",
+    "main.46b78b26.js.map": "/react-web-dev-basics/static/js/main.46b78b26.js.map",
+    "693.befd2139.chunk.css.map": "/react-web-dev-basics/static/css/693.befd2139.chunk.css.map",
+    "693.f52c2871.chunk.js.map": "/react-web-dev-basics/static/js/693.f52c2871.chunk.js.map",
+    "165.b296b289.chunk.css.map": "/react-web-dev-basics/static/css/165.b296b289.chunk.css.map",
+    "165.2fe8f952.chunk.js.map": "/react-web-dev-basics/static/js/165.2fe8f952.chunk.js.map",
+    "156.55672800.chunk.css.map": "/react-web-dev-basics/static/css/156.55672800.chunk.css.map",
+    "156.fda0abbe.chunk.js.map": "/react-web-dev-basics/static/js/156.fda0abbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50f2c78a.css",
+    "static/js/main.46b78b26.js"
+  ]
+}
