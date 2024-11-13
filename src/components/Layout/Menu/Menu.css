@@ -1,0 +1,57 @@
+.menu {
+  padding: 0 16px;
+  width: 100vw;
+  height: 60px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-items {
+  width: 100%;
+  max-width: 1170px;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 104px;
+}
+
+.button-container {
+  max-width: 250px;
+  flex-shrink: 1;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+@media (max-width: 359px) {
+  .menu {
+    max-width: 100%;
+    height: auto;
+    padding: 0;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+  }
+
+  .button-container {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+  }
+
+  p.text-title,
+  p.text-body.--text-overflowed {
+    line-break: anywhere;
+    max-width: 80vw;
+  }
+}
+
+@media (min-width: 360px) and (max-width: 412px) {
+  /* Add specific styles for this media query if needed */
+}

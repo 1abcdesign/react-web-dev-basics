@@ -1,0 +1,24 @@
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  transform-origin: center;
+  width: fit-content;
+  height: fit-content;
+  animation: rotation var(--speed) linear infinite;
+  overflow: hidden;
+}
+
+.spinner-container img {
+  transform: scale(0.52083) translate(0, 0);
+}

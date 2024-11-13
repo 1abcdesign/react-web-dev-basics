@@ -1,0 +1,41 @@
+.header {
+  width: 100%;
+  max-width: 1170px;
+  min-height: 500px;
+  background-image: url('../../../assets/header.webp');
+  background-position: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+@media (max-width: 380px) {
+  .header {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 0;
+  }
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  width: 328px;
+}
+
+@media (min-width: 768px) {
+  .header-content {
+    width: 380px;
+  }
+}
