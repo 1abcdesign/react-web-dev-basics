@@ -30,7 +30,7 @@ The project involves the following steps:
 
 ## Mockup Preview:
 
-![Mockup](https://github.com/1abcdesign/react-web-dev-basics/blob/main/docs/mockup1024.png)
+![Mockup](https://github.com/vadim4web/react-web-dev-basics/blob/main/docs/mockup1024.png)
 
 ## Getting Started
 
@@ -51,5 +51,5 @@ To set up and run the project locally, follow these steps:
    ```bash
    npm start
 
-1abcdesign
+vadim4web
 
