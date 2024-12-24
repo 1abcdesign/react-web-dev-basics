@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-web-dev-basics/static/css/main.50f2c78a.css",
+    "main.css": "/react-web-dev-basics/static/css/main.d2045cc5.css",
     "main.js": "/react-web-dev-basics/static/js/main.46b78b26.js",
     "static/css/693.befd2139.chunk.css": "/react-web-dev-basics/static/css/693.befd2139.chunk.css",
     "static/js/693.f52c2871.chunk.js": "/react-web-dev-basics/static/js/693.f52c2871.chunk.js",
@@ -14,7 +14,7 @@
     "static/media/defaulUser.svg": "/react-web-dev-basics/static/media/defaulUser.b51651e3062922d061aac30f732816f7.svg",
     "static/media/spinner.svg": "/react-web-dev-basics/static/media/spinner.6484447065ee95c082e9b52b2a1f2996.svg",
     "index.html": "/react-web-dev-basics/index.html",
-    "main.50f2c78a.css.map": "/react-web-dev-basics/static/css/main.50f2c78a.css.map",
+    "main.d2045cc5.css.map": "/react-web-dev-basics/static/css/main.d2045cc5.css.map",
     "main.46b78b26.js.map": "/react-web-dev-basics/static/js/main.46b78b26.js.map",
     "693.befd2139.chunk.css.map": "/react-web-dev-basics/static/css/693.befd2139.chunk.css.map",
     "693.f52c2871.chunk.js.map": "/react-web-dev-basics/static/js/693.f52c2871.chunk.js.map",
@@ -24,7 +24,7 @@
     "156.fda0abbe.chunk.js.map": "/react-web-dev-basics/static/js/156.fda0abbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50f2c78a.css",
+    "static/css/main.d2045cc5.css",
     "static/js/main.46b78b26.js"
   ]
 }
